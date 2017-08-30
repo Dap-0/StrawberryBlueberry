@@ -1,0 +1,28 @@
+.container{
+	width: 1000px
+	margin:	0 auto;
+}
+.image{
+	width: 40%
+	float: left;
+}
+.image img{
+width:40%;
+}
+
+.text {
+	width: 60;
+	float: right;
+
+}
+.text p, footer {
+	border-top: 1px solid black ;
+	border-bottom: 1px solid black;
+}
+span {
+	color: #a3865b;
+}
+
+li	{
+	display: inline;
+}
